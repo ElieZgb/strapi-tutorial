@@ -65,25 +65,25 @@ $RECYCLE.BIN/
 # Logs and databases
 ############################
 
-.tmp
-*.log
-*.sql
-*.sqlite
-*.sqlite3
+# .tmp
+# *.log
+# *.sql
+# *.sqlite
+# *.sqlite3
 
 
 ############################
 # Misc.
 ############################
 
-*#
-ssl
-.idea
-nbproject
-public/uploads/*
-!public/uploads/.gitkeep
-.tsbuildinfo
-.eslintcache
+# *#
+# ssl
+# .idea
+# nbproject
+# public/uploads/*
+# !public/uploads/.gitkeep
+# .tsbuildinfo
+# .eslintcache
 
 ############################
 # Node.js
